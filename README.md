@@ -1,5 +1,5 @@
 ### Hi there 👋
-# I'm Wei Kai.
+<h1>I'm Wei Kai.</h1>
 
 - 🔭 I’m currently working in a hospitial as a pharmacist.
 - 🌱 I’m currently learning JavaScript, HTML, CSS.
